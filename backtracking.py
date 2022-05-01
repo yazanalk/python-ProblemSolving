@@ -9,6 +9,8 @@ def lettercombinations(digits : str):
                    '7':'pqrs',
                    '8':'tuv',
                    '9':'wxyz'}
+                    dic!
+                   
     """
     def mappinglist(dig):
         offset = 0
